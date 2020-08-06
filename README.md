@@ -29,5 +29,3 @@ I'm Kaleigh Spurio, Welcome to my Github Profile!  I'm currently pursuing certif
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=Kaleighspurio&show_icons=true&theme=nightowl" />
   <img align="top" alt="Most used languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kaleighspurio&theme=nightowl&layout=compact" />
 </p>
-
-<img src="image/shahadat-rahman-voM1Z9cGPCU-unsplash.jpg" width="100%"/>
