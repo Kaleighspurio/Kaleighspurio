@@ -1,6 +1,6 @@
 <img src="https://github.com/Kaleighspurio/Kaleighspurio/blob/master/image/shahadat-rahman-voM1Z9cGPCU-unsplash.jpg"/>
 
-I'm Kaleigh Spurio, Welcome to my Github Profile!  I'm currently pursuing certification in Full Stack Web Development.  You can find me on [linkedin](https://www.linkedin.com/in/kaleigh-spurio-44348677/) and can view [my porfolio](https://kaleighspurio.github.io/react-portfolio/).
+I'm Kaleigh Spurio, Welcome to my Github Profile!  I'm recently earned a certification in Full Stack Web Development from a coding bootcamp.  You can find me on [linkedin](https://www.linkedin.com/in/kaleigh-spurio-44348677/) and can view [my porfolio](https://kaleighspurio.github.io/react-portfolio/).
 
 
 ### Languages and Tools:
